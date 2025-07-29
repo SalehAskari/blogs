@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/img/termux.png" alt="My Image" width="300" />
+</p>
+
 # 📱 What is Termux? A Friendly Guide for Beginners
 
 Hey there! 👋
